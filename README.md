@@ -39,7 +39,8 @@
 
  --> After setting the time click the set time countdown button it start time countdown automatically
 
-![image](https://user-images.githubusercontent.com/108206047/175860439-3e708e6e-e8d1-42ad-b1b2-c55aa65fa302.png)
+![image](https://user-images.githubusercontent.com/108206047/183286693-67889fa7-4f79-4f8f-a26c-f8218cf1293a.png)
+
 
 --> After finish the time countdown it will give warning to the user to stop the activity.it will help the user like a alaram.
 
